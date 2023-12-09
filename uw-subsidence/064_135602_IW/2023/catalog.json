@@ -1,0 +1,278 @@
+{
+  "type": "Catalog",
+  "id": "2023",
+  "stac_version": "1.0.0",
+  "description": "Catalog of items from 064_135602_IW with id 2023",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230108_20230201_5rlks/064_135602_IW1_20230108_20230201_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230108_20221227_5rlks/064_135602_IW1_20230108_20221227_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230120_20230108_5rlks/064_135602_IW1_20230120_20230108_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230120_20230213_5rlks/064_135602_IW1_20230120_20230213_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230201_20230225_5rlks/064_135602_IW1_20230201_20230225_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230201_20230120_5rlks/064_135602_IW1_20230201_20230120_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230213_20230201_5rlks/064_135602_IW1_20230213_20230201_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230213_20230309_5rlks/064_135602_IW1_20230213_20230309_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230225_20230321_5rlks/064_135602_IW1_20230225_20230321_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230225_20230213_5rlks/064_135602_IW1_20230225_20230213_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230309_20230225_5rlks/064_135602_IW1_20230309_20230225_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230309_20230402_5rlks/064_135602_IW1_20230309_20230402_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230321_20230414_5rlks/064_135602_IW1_20230321_20230414_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230321_20230309_5rlks/064_135602_IW1_20230321_20230309_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230402_20230426_5rlks/064_135602_IW1_20230402_20230426_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230402_20230321_5rlks/064_135602_IW1_20230402_20230321_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230414_20230508_5rlks/064_135602_IW1_20230414_20230508_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230414_20230402_5rlks/064_135602_IW1_20230414_20230402_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230426_20230520_5rlks/064_135602_IW1_20230426_20230520_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230426_20230414_5rlks/064_135602_IW1_20230426_20230414_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230508_20230426_5rlks/064_135602_IW1_20230508_20230426_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230508_20230601_5rlks/064_135602_IW1_20230508_20230601_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230520_20230508_5rlks/064_135602_IW1_20230520_20230508_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230520_20230613_5rlks/064_135602_IW1_20230520_20230613_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230601_20230520_5rlks/064_135602_IW1_20230601_20230520_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230601_20230625_5rlks/064_135602_IW1_20230601_20230625_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230613_20230601_5rlks/064_135602_IW1_20230613_20230601_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230613_20230707_5rlks/064_135602_IW1_20230613_20230707_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230625_20230613_5rlks/064_135602_IW1_20230625_20230613_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230625_20230731_5rlks/064_135602_IW1_20230625_20230731_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230707_20230625_5rlks/064_135602_IW1_20230707_20230625_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230707_20230812_5rlks/064_135602_IW1_20230707_20230812_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230731_20230824_5rlks/064_135602_IW1_20230731_20230824_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230731_20230707_5rlks/064_135602_IW1_20230731_20230707_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230812_20230731_5rlks/064_135602_IW1_20230812_20230731_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230812_20230905_5rlks/064_135602_IW1_20230812_20230905_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230824_20230917_5rlks/064_135602_IW1_20230824_20230917_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230824_20230812_5rlks/064_135602_IW1_20230824_20230812_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230905_20230929_5rlks/064_135602_IW1_20230905_20230929_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230905_20230824_5rlks/064_135602_IW1_20230905_20230824_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230917_20230905_5rlks/064_135602_IW1_20230917_20230905_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230917_20231011_5rlks/064_135602_IW1_20230917_20231011_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230929_20230917_5rlks/064_135602_IW1_20230929_20230917_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20230929_20231023_5rlks/064_135602_IW1_20230929_20231023_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20231011_20230929_5rlks/064_135602_IW1_20231011_20230929_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20231011_20231104_5rlks/064_135602_IW1_20231011_20231104_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20231023_20231116_5rlks/064_135602_IW1_20231023_20231116_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20231023_20231011_5rlks/064_135602_IW1_20231023_20231011_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20231104_20231128_5rlks/064_135602_IW1_20231104_20231128_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20231104_20231023_5rlks/064_135602_IW1_20231104_20231023_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20231116_20231104_5rlks/064_135602_IW1_20231116_20231104_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./064_135602_IW1_20231128_20231116_5rlks/064_135602_IW1_20231128_20231116_5rlks.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ]
+}

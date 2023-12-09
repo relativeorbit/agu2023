@@ -1,0 +1,308 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "064_135602_IW1_20230812_20230905_5rlks",
+  "properties": {
+    "start_datetime": "2023-08-12T01:54:37Z",
+    "end_datetime": "2023-09-05T01:54:39Z",
+    "processingDate": "2023-12-09T06:56:57+00:00Z",
+    "burstId": "064_135602_IW",
+    "granules": [
+      "S1_135602_IW1_20230812T015437_VV_8FF9-BURST",
+      "S1_135602_IW1_20230905T015439_VV_FA62-BURST"
+    ],
+    "proj:epsg": 32610,
+    "proj:geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            541200.0,
+            5271120.0
+          ],
+          [
+            648040.0,
+            5271120.0
+          ],
+          [
+            648040.0,
+            5312560.0
+          ],
+          [
+            541200.0,
+            5312560.0
+          ],
+          [
+            541200.0,
+            5271120.0
+          ]
+        ]
+      ]
+    },
+    "proj:bbox": [
+      541200.0,
+      5271120.0,
+      648040.0,
+      5312560.0
+    ],
+    "proj:shape": [
+      2072,
+      5342
+    ],
+    "proj:transform": [
+      20.0,
+      0.0,
+      541200.0,
+      0.0,
+      -20.0,
+      5312560.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "proj:projjson": {
+      "$schema": "https://proj.org/schemas/v0.5/projjson.schema.json",
+      "type": "ProjectedCRS",
+      "name": "WGS 84 / UTM zone 10N",
+      "base_crs": {
+        "name": "WGS 84",
+        "datum": {
+          "type": "GeodeticReferenceFrame",
+          "name": "World Geodetic System 1984",
+          "ellipsoid": {
+            "name": "WGS 84",
+            "semi_major_axis": 6378137,
+            "inverse_flattening": 298.257223563
+          }
+        },
+        "coordinate_system": {
+          "subtype": "ellipsoidal",
+          "axis": [
+            {
+              "name": "Geodetic latitude",
+              "abbreviation": "Lat",
+              "direction": "north",
+              "unit": "degree"
+            },
+            {
+              "name": "Geodetic longitude",
+              "abbreviation": "Lon",
+              "direction": "east",
+              "unit": "degree"
+            }
+          ]
+        },
+        "id": {
+          "authority": "EPSG",
+          "code": 4326
+        }
+      },
+      "conversion": {
+        "name": "UTM zone 10N",
+        "method": {
+          "name": "Transverse Mercator",
+          "id": {
+            "authority": "EPSG",
+            "code": 9807
+          }
+        },
+        "parameters": [
+          {
+            "name": "Latitude of natural origin",
+            "value": 0,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8801
+            }
+          },
+          {
+            "name": "Longitude of natural origin",
+            "value": -123,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8802
+            }
+          },
+          {
+            "name": "Scale factor at natural origin",
+            "value": 0.9996,
+            "unit": "unity",
+            "id": {
+              "authority": "EPSG",
+              "code": 8805
+            }
+          },
+          {
+            "name": "False easting",
+            "value": 500000,
+            "unit": "metre",
+            "id": {
+              "authority": "EPSG",
+              "code": 8806
+            }
+          },
+          {
+            "name": "False northing",
+            "value": 0,
+            "unit": "metre",
+            "id": {
+              "authority": "EPSG",
+              "code": 8807
+            }
+          }
+        ]
+      },
+      "coordinate_system": {
+        "subtype": "Cartesian",
+        "axis": [
+          {
+            "name": "Easting",
+            "abbreviation": "",
+            "direction": "east",
+            "unit": "metre"
+          },
+          {
+            "name": "Northing",
+            "abbreviation": "",
+            "direction": "north",
+            "unit": "metre"
+          }
+        ]
+      },
+      "id": {
+        "authority": "EPSG",
+        "code": 32610
+      }
+    },
+    "datetime": "2023-08-12T01:54:37Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.45199212768678,
+          47.57659569360673
+        ],
+        [
+          -121.01733415436917,
+          47.57659569360673
+        ],
+        [
+          -121.01733415436917,
+          47.96502226876314
+        ],
+        [
+          -122.45199212768678,
+          47.96502226876314
+        ],
+        [
+          -122.45199212768678,
+          47.57659569360673
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "../../../collection.json",
+      "type": "application/json",
+      "title": "ASF S1 BURST INTERFEROGRAMS"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "conncomp": {
+      "href": "/vsizip//vsicurl/https://d3gm2hf49xd6jj.cloudfront.net/e3aa8359-3271-47ec-8d61-0850a116e0a2/S1_135602_IW1_20230812_20230905_VV_INT20_BB03.zip/S1_135602_IW1_20230812_20230905_VV_INT20_BB03/S1_135602_IW1_20230812_20230905_VV_INT20_BB03_conncomp.tif",
+      "type": "image/tiff; application=geotiff",
+      "roles": [
+        "data"
+      ]
+    },
+    "corr": {
+      "href": "/vsizip//vsicurl/https://d3gm2hf49xd6jj.cloudfront.net/e3aa8359-3271-47ec-8d61-0850a116e0a2/S1_135602_IW1_20230812_20230905_VV_INT20_BB03.zip/S1_135602_IW1_20230812_20230905_VV_INT20_BB03/S1_135602_IW1_20230812_20230905_VV_INT20_BB03_corr.tif",
+      "type": "image/tiff; application=geotiff",
+      "roles": [
+        "data"
+      ]
+    },
+    "dem": {
+      "href": "/vsizip//vsicurl/https://d3gm2hf49xd6jj.cloudfront.net/e3aa8359-3271-47ec-8d61-0850a116e0a2/S1_135602_IW1_20230812_20230905_VV_INT20_BB03.zip/S1_135602_IW1_20230812_20230905_VV_INT20_BB03/S1_135602_IW1_20230812_20230905_VV_INT20_BB03_dem.tif",
+      "type": "image/tiff; application=geotiff",
+      "roles": [
+        "data"
+      ]
+    },
+    "lv_phi": {
+      "href": "/vsizip//vsicurl/https://d3gm2hf49xd6jj.cloudfront.net/e3aa8359-3271-47ec-8d61-0850a116e0a2/S1_135602_IW1_20230812_20230905_VV_INT20_BB03.zip/S1_135602_IW1_20230812_20230905_VV_INT20_BB03/S1_135602_IW1_20230812_20230905_VV_INT20_BB03_lv_phi.tif",
+      "type": "image/tiff; application=geotiff",
+      "roles": [
+        "data"
+      ]
+    },
+    "lv_theta": {
+      "href": "/vsizip//vsicurl/https://d3gm2hf49xd6jj.cloudfront.net/e3aa8359-3271-47ec-8d61-0850a116e0a2/S1_135602_IW1_20230812_20230905_VV_INT20_BB03.zip/S1_135602_IW1_20230812_20230905_VV_INT20_BB03/S1_135602_IW1_20230812_20230905_VV_INT20_BB03_lv_theta.tif",
+      "type": "image/tiff; application=geotiff",
+      "roles": [
+        "data"
+      ]
+    },
+    "unwrapped": {
+      "href": "/vsizip//vsicurl/https://d3gm2hf49xd6jj.cloudfront.net/e3aa8359-3271-47ec-8d61-0850a116e0a2/S1_135602_IW1_20230812_20230905_VV_INT20_BB03.zip/S1_135602_IW1_20230812_20230905_VV_INT20_BB03/S1_135602_IW1_20230812_20230905_VV_INT20_BB03_unw_phase.tif",
+      "type": "image/tiff; application=geotiff",
+      "roles": [
+        "data"
+      ]
+    },
+    "wrapped": {
+      "href": "/vsizip//vsicurl/https://d3gm2hf49xd6jj.cloudfront.net/e3aa8359-3271-47ec-8d61-0850a116e0a2/S1_135602_IW1_20230812_20230905_VV_INT20_BB03.zip/S1_135602_IW1_20230812_20230905_VV_INT20_BB03/S1_135602_IW1_20230812_20230905_VV_INT20_BB03_wrapped_phase.tif",
+      "type": "image/tiff; application=geotiff",
+      "roles": [
+        "data"
+      ]
+    },
+    "browse": {
+      "href": "https://d3gm2hf49xd6jj.cloudfront.net/e3aa8359-3271-47ec-8d61-0850a116e0a2/S1_135602_IW1_20230812_20230905_VV_INT20_BB03_unw_phase.png",
+      "type": "image/png",
+      "roles": [
+        "overview"
+      ]
+    },
+    "thumbnail": {
+      "href": "https://d3gm2hf49xd6jj.cloudfront.net/e3aa8359-3271-47ec-8d61-0850a116e0a2/S1_135602_IW1_20230812_20230905_VV_INT20_BB03_unw_phase_thumb.png",
+      "type": "image/png",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "metadata": {
+      "href": "/vsizip//vsicurl/https://d3gm2hf49xd6jj.cloudfront.net/e3aa8359-3271-47ec-8d61-0850a116e0a2/S1_135602_IW1_20230812_20230905_VV_INT20_BB03.zip/S1_135602_IW1_20230812_20230905_VV_INT20_BB03/S1_135602_IW1_20230812_20230905_VV_INT20_BB03.txt",
+      "type": "text/plain",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
+  "bbox": [
+    -122.45199212768678,
+    47.57659569360673,
+    -121.01733415436917,
+    47.96502226876314
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.1.0/schema.json"
+  ],
+  "collection": "uw-subsidence"
+}
