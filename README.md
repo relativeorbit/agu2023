@@ -5,6 +5,9 @@ Authors: Scott Henderson, Eric Gagliano, Emma Marshall, George Brencher, David S
 
 This repository contains the PDF for our 2023 AGU Poster from the session "Recent Advances in SAR and InSAR Processing, Big Data Analysis, and Earth Science". You will also find several Jupyter Notebooks with Python code written to generate the figures on the poster, which we created using the [ASF OpenSARLab JupyterHub](https://opensciencelab.asf.alaska.edu/).
 
+<img width="600" alt="image" src="https://github.com/relativeorbit/agu2023/assets/3924836/a7bddc60-6fcb-4bcf-91ae-a4715b6bcb72">
+
+
 [Poster PDF](./AGU_2023_Poster.pdf)
 
 
